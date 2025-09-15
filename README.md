@@ -1,4 +1,4 @@
-# 💫 About Me:
+# HI THERE
 🔭 I’m currently working on 3D Computer Vision
 
 
