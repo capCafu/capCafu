@@ -1,12 +1,74 @@
-## Hi there
-🔭 I’m currently working on 3D Computer Vision
+<!-- Typing SVG Greeting -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=67D8EF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sagi+Amangeldi+👋;3D+Computer+Vision+Engineer;Software+Development+%7C+LiDAR+%7C+Point+Clouds;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sagiamangeldi/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@s.amangeldi.14) 
+## ⚡ About Me
 
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+📍 **Current Location:** Tokyo, Japan  
+🏢 **Role:** 3D Computer Vision Engineer  
+🎓 **M.S.** AI & Computer Engineering — Ulsan, Korea *(2023–2025)*  
+🎓 **B.S.** Computer Science — Astana, Kazakhstan *(2018–2022)*  
+🧠 **Focus:** LiDAR, Point Cloud Processing, 3D Metrology & Automation  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
+## 🧠 Research Interests
+
+🔹 3D Computer Vision & Industrial Metrology  
+🔹 Point Cloud Segmentation & Registration  
+🔹 Noise Reduction & Geometric Filtering in 3D Data  
+
+---
+
+## 🛠 Tech Stack
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-ffd343?style=for-the-badge&logo=python&logoColor=3f3f3f)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000000)
+
+### **3D / Geometry**
+![Open3D](https://img.shields.io/badge/Open3D-005571?style=for-the-badge)
+![PCL](https://img.shields.io/badge/PCL-0087B5?style=for-the-badge)
+![Trimesh](https://img.shields.io/badge/Trimesh-00557F?style=for-the-badge)
+![CloudCompare](https://img.shields.io/badge/CloudCompare-1C1C1C?style=for-the-badge)
+
+### **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-0078d4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Highlighted Work
+
+🔁 Automated **CAD-to-Scan** inspection pipelines  
+🌀 Robust **noise-aware** point cloud filtering  
+🧩 **Unsupervised 3D segmentation** using SAM + spherical projection  
+
+---
+
+## 📄 Publications & Posters
+
+📌 *AI-Assisted Search for Industrial Components* — PRESM 2025  
+🏗️ *Dimensional Inspection for Shipbuilding Components* — KSPE 2024  
+
+---
+
+## 📬 Contact
+
+💼 **LinkedIn:** [linkedin.com/in/sagiamangeldi](https://www.linkedin.com/in/sagiamangeldi/)  
+👾 **GitHub:** [github.com/SagiAmangeldi](https://github.com/SagiAmangeldi)
+
+---
+
+## 🌍 Languages
+
+🇰🇿 Kazakh *(Native)*  
+🇬🇧 English *(Advanced)*  
+🇷🇺 Russian *(Bilingual)*  
+🇹🇷 Turkish *(Elementary)*  
+🇰🇷 Korean *(Beginner)*  
+
+---
