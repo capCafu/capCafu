@@ -1,5 +1,5 @@
 <!-- Typing SVG Greeting -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=67D8EF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sagi+Amangeldi+👋;3D+Computer+Vision+Engineer;Software+Development+%7C+LiDAR+%7C+Point+Clouds;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=67D8EF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sagi+Amangeldi+👋;3D+Computer+Vision+%7C+Software+Development+%7C+Research;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 ---
 
