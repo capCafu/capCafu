@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 Research Interests
+## 🔬 Research Interests
 
 🔹 3D Computer Vision & Industrial Metrology  
 🔹 Point Cloud Segmentation & Registration  
