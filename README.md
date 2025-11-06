@@ -7,8 +7,8 @@
 
 📍 **Current Location:** Tokyo, Japan  
 🏢 **Role:** 3D Computer Vision Engineer  
-🎓 **M.S.** AI & Computer Engineering — Ulsan, Korea *(2023–2025)*  
-🎓 **B.S.** Computer Science — Astana, Kazakhstan *(2018–2022)*  
+🎓 **M.S.** AI & Computer Engineering  
+🎓 **B.S.** Computer Science
 🧠 **Focus:** LiDAR, Point Cloud Processing, 3D Metrology & Automation  
 
 ---
