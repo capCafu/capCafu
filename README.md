@@ -13,14 +13,6 @@
 
 ---
 
-## 🔬 Research Interests
-
-🔹 3D Computer Vision & Industrial Metrology  
-🔹 Point Cloud Segmentation & Registration  
-🔹 Noise Reduction & Geometric Filtering in 3D Data  
-
----
-
 ## 🛠 Tech Stack
 
 ### **Languages**
