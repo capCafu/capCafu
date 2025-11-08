@@ -41,21 +41,6 @@
 
 ---
 
-## 🚀 Highlighted Work
-
-🔁 Automated **CAD-to-Scan** inspection pipelines  
-🌀 Robust **noise-aware** point cloud filtering  
-🧩 **Unsupervised 3D segmentation** using SAM + spherical projection  
-
----
-
-## 📄 Publications & Posters
-
-📌 *AI-Assisted Search for Industrial Components* — PRESM 2025  
-🏗️ *Dimensional Inspection for Shipbuilding Components* — KSPE 2024  
-
----
-
 ## 📬 Contact
 
 💼 **LinkedIn:** [linkedin.com/in/sagiamangeldi](https://www.linkedin.com/in/sagiamangeldi/)  
