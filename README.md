@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/67D8EF/capCafu" alt="GitHub Contributions Chart" />
+  <img src="https://github-readme-stats.vercel.app/api?username=capCafu&show_icons=true&theme=transparent&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true" />
 </p>
 
 ---
