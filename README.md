@@ -36,7 +36,6 @@
 ## 📬 Contact
 
 💼 **LinkedIn:** [linkedin.com/in/sagiamangeldi](https://www.linkedin.com/in/sagiamangeldi/)  
-👾 **GitHub:** [github.com/SagiAmangeldi](https://github.com/SagiAmangeldi)
 
 ---
 
