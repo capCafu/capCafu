@@ -17,10 +17,8 @@
 
 ---
 
-## 📊 GitHub Contributions
-
 <p align="center">
-  <img src="https://ghchart.rshah.org/67D8EF/capCafu" alt="GitHub Contributions Chart" />
+  <img src="https://ghchart.rshah.org/1F2933/capCafu" alt="GitHub Contributions Chart" />
 </p>
 
 ---
