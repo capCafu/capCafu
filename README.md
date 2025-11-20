@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=capcafu&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://ghchart.rshah.org/67D8EF/capCafu" alt="GitHub Contributions Chart" />
 </p>
 
 ---
