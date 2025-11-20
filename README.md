@@ -1,5 +1,9 @@
 <!-- Typing SVG Greeting -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=67D8EF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sagi+Amangeldi+👋;3D+Computer+Vision+%7C+Software+Development+%7C+Research;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=67D8EF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sagi+Amangeldi+👋;3D+Computer+Vision+%7C+Software+Development+%7C+Research;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -13,8 +17,10 @@
 
 ---
 
+## 📊 GitHub Contributions
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=capCafu&show_icons=true&theme=transparent&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true" />
+  <img src="https://ghchart.rshah.org/67D8EF/capCafu" alt="GitHub Contributions Chart" />
 </p>
 
 ---
